@@ -21,6 +21,15 @@
 
 [9-Basic Japanese Candlestick Patterns](#9)
 
+[10-Single Candlestick Patterns](#10)
+
+[11-Dual Candlestick Patterns](#11)
+
+[12-Triple Candlestick Patterns](#12)
+
+
+
+
 
 
 
@@ -228,6 +237,69 @@ It emphasises the importance of waiting for confirmation rather than jumping str
   - A Spinning Top or Doji appearing after a long uptrend suggests possible buyer exhaustion (reversal risk).
   - A Marubozu in the direction of the trend often signals continuation; placed at the end of a trend it may signal reversal. 
 * Candlestick patterns on their own are not guarantees of future direction, they should be used in context (trend, support/resistance, volume) and ideally with confirmation. 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="10"></a>
+#### 10. Single Candlestick Patterns
+
+* Hammer & Hanging Man
+  - They look identical in shape: small body, long lower shadow, little or no upper shadow.
+  - Hammer: bullish reversal pattern, appears during a downtrend → suggests the bottom may be near. The long lower shadow shows sellers pushed far down, but buyers regained control and closed near open.
+  - Hanging Man: bearish reversal pattern, appears during an uptrend → signals that sellers are becoming active, possibly marking a top or strong resistance. 
+* Inverted Hammer & Shooting Star
+  - They also share the same shape: small body, long upper shadow, little or no lower shadow.
+  - Inverted Hammer: appears during a downtrend → long upper shadow shows buyers attempted to push higher, but sellers pulled back; suggests buyers may be stepping in, potential bullish reversal.
+  - Shooting Star: appears during an uptrend → long upper shadow shows buyers tried to push higher, but sellers overwhelmed them; suggests possible bearish reversal. 
+* Recognition criteria (for each pattern, generally):
+  - The long shadow should be about two or three times the size of the body.
+  - The body is small and located near the high (for Hanging Man / Shooting Star) or near the low (for Hammer / Inverted Hammer) of the candle’s range.
+  - The color of the body (filled/black or hollow/white) is less important, though for Hanging Man / Shooting Star a filled (bearish) body adds strength to the signal. 
+* Context & confirmation matter
+  - Seeing one of these candles in a trend does not guarantee a reversal, you’ll want to see confirmation (e.g., next candle closing in the expected direction) or other supporting signals.
+  - Consider the prior trend, the location (e.g., near support/resistance), and volume or other technical factors to increase the reliability of the signal.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="11"></a>
+#### 11. Dual Candlestick Patterns
+
+* Dual candlestick patterns consist of two adjacent candles forming a specific setup that often signals a reversal.
+* Two of the most common dual patterns:
+  - Engulfing Pattern:
+  - Tweezer Tops / Tweezer Bottoms:
+* Context matters: These patterns are more reliable when they occur after a strong trend (uptrend for bearish reversal signals; downtrend for bullish reversal signals).
+* Confirmation & risk-management still necessary: Even though they signal possible reversal, nothing is guaranteed. Use supporting signals and proper stop-losses.
+* These dual formations add more weight than single-candlestick patterns because they represent a shift in market behaviour across two periods.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="12"></a>
+#### 12. Triple Candlestick Patterns
+
+Triple candlestick patterns are chart formations made up of three consecutive candlesticks. These patterns can be either reversal or continuation signals depending on their form and where they occur in the trend. 
+
+* A few prominent triple-candlestick patterns:
+  - Morning Star: Bullish reversal pattern usually found at the end of a downtrend.
+  - Evening Star: Bearish reversal pattern usually found at the end of an uptrend.
+  - Three White Soldiers: Three long bullish candles in a row, signalling a strong bullish reversal after a downtrend.
+  - Three Black Crows: Three long bearish candles in succession, signalling a strong bearish reversal after an uptrend.
+  - Three Inside Up & Three Inside Down: Variants indicating possible reversals; three-bar formations used in particular contexts. 
+* Key recognition factors:
+  - These patterns often occur after a clear trend (either up or down) and at meaningful levels (support/resistance).
+  - The second candle often shows indecision (small body) in the case of star patterns; the third candle confirms the move (closing beyond midpoint or beyond first candle’s range). 
+* Reversal vs Continuation:
+  - Some triple patterns work as reversals (e.g., Morning/Evening Star).
+  - Others can act as continuation patterns (e.g., Three White Soldiers continuing a bullish move). 
+* Important caveats:
+  - These patterns are not guarantees: context, trend strength, location, volume, and further confirmation matter.
+  - Reliability improves when combined with other tools: support/resistance, trend lines, and overall price action.
 
 <a name="id"></a>
 [**Back to HOME**](#100)
