@@ -27,6 +27,9 @@
 
 [12-Triple Candlestick Patterns](#12)
 
+[13-Japanese Candlestick Cheat Sheet](#13)
+
+
 
 
 
@@ -303,5 +306,27 @@ Triple candlestick patterns are chart formations made up of three consecutive ca
 
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+<a id="13"></a>
+#### 13. Japanese Candlestick Cheat Sheet
+
+* Candlestick Anatomy:
+* Single-candlestick patterns included: e.g., Spinning Top (indecision), Doji (indecision), White Marubozu (strong bullish), Black Marubozu (strong bearish), Hammer, Hanging Man, Inverted Hammer, Shooting Star.
+* Dual-candlestick patterns included: Bullish Engulfing, Bearish Engulfing, Tweezer Tops, Tweezer Bottoms.
+* Triple-candlestick patterns included: Morning Star (bullish reversal), Evening Star (bearish reversal), Three White Soldiers (bullish continuation), Three Black Crows (bearish continuation), Three Inside Up, Three Inside Down.
+* Important reminder: These patterns are helpful for spotting setups, but none guarantee a reversal or continuation — context (trend, support/resistance, confirmation) still matters.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+
+
+
+
+
+
+
 
 
