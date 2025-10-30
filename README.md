@@ -29,6 +29,8 @@
 
 [13-Japanese Candlestick Cheat Sheet](#13)
 
+[14-Candlesticks with Support and Resistance](#14)
+
 
 
 
@@ -322,7 +324,16 @@ Triple candlestick patterns are chart formations made up of three consecutive ca
 
 
 
+<a id="14"></a>
+#### 14. Candlesticks with Support and Resistance
+Combining candlestick patterns with support and resistance levels significantly improves the probability of successful trades. Recognising how candlesticks behave around these levels gives clearer signals than candlesticks alone.
 
+* Support and resistance levels are the “frontlines” where buyers or sellers are likely to act, these are key zones for judging candlestick signals.
+* Candlestick patterns alone (without reference to S/R zones) often lead to false signals. In the example in the article, many candlestick-only signals failed until S/R zones were considered.
+* When price approaches a major support or resistance zone, look for candlestick formations that indicate reaction (bounce) or break:
+* The location of the candlestick pattern is vital: patterns are stronger when they occur near a well-defined support or resistance zone rather than in isolation.
+* Always treat S/R levels as zones rather than exact lines — this is especially important when combining with candlestick signals, as shadows and small penetrations happen.
+* Patience and discipline matter: waiting for price to hit the S/R zone and for a confirming candlestick pattern improves trade clarity and reduces risk of false entries.
 
 
 
