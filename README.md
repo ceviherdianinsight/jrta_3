@@ -31,6 +31,13 @@
 
 [14-Candlesticks with Support and Resistance](#14)
 
+[15-Common Mistakes That New Traders Make With Japanese Candlesticks](#15)
+
+[16-Summary: Japanese Candlesticks](#16)
+
+[17-Fibonacci Trading](#17)
+
+[18-How to Use Fibonacci Retracements](#18)
 
 
 
@@ -331,13 +338,58 @@ Combining candlestick patterns with support and resistance levels significantly 
 * Support and resistance levels are the “frontlines” where buyers or sellers are likely to act, these are key zones for judging candlestick signals.
 * Candlestick patterns alone (without reference to S/R zones) often lead to false signals. In the example in the article, many candlestick-only signals failed until S/R zones were considered.
 * When price approaches a major support or resistance zone, look for candlestick formations that indicate reaction (bounce) or break:
+  - For a bounce: a strong reversal candlestick at the S/R zone.
+  - For a break: a candlestick that convincingly breaks the zone and may be followed by a retest.
 * The location of the candlestick pattern is vital: patterns are stronger when they occur near a well-defined support or resistance zone rather than in isolation.
 * Always treat S/R levels as zones rather than exact lines — this is especially important when combining with candlestick signals, as shadows and small penetrations happen.
 * Patience and discipline matter: waiting for price to hit the S/R zone and for a confirming candlestick pattern improves trade clarity and reduces risk of false entries.
 
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
+<a id="15"></a>
+#### 15. Common Mistakes That New Traders Make With Japanese Candlesticks
+* Trying to find meaning in every candlestick. Markets are noisy, focus on patterns that occur near important zones (support/resistance).
+* Over-interpretation: Zooming in too much or forcing a pattern when there isn’t one. 
+* Under-interpretation: Being too strict about pattern format (e.g., expecting exactly 3 candles for a pattern) and ignoring valid variations.
+* Losing perspective: Focusing only on very short time-frames and missing the broader chart context (“forest”).
+* Acting without confirmation: Entering trades before the candle(s) fully form or before waiting for follow-through.
+  
+<a name="id"></a>
+[**Back to HOME**](#100)
 
+
+<a id="16"></a>
+#### 16. Summary: Japanese Candlesticks
+
+* Candlesticks are built from the open, high, low, and close of a time period.
+* If the close is above the open → a hollow/white (or green) body; if the close is below the open → a filled/black (or red) body.
+* The “real body” shows the range between open and close. Shadows (wicks) show the high and low of the period.
+* Long bodies indicate strong buying or selling pressure; short bodies indicate little movement.
+* Upper shadows show session highs; lower shadows show session lows.
+* Candlestick patterns are grouped by how many bars they contain:
+* Use candlestick analysis in context (trend, support/resistance) — the pattern alone does not guarantee a move. 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="17"></a>
+#### 17. Fibonacci Trading
+
+* Fibonacci was an Italian mathematician from the 13th century who introduced the sequence that now bears his name.
+* The Fibonacci sequence starts with 0, 1 and each subsequent number equals the sum of the two previous numbers: e.g., 0, 1, 1, 2, 3, 5, 8, 13, 21…
+* From this sequence, important ratios emerge:
+* These ratios (61.8%, 38.2%, etc.) are used in trading tools like Fibonacci Retracement because they often appear in nature and are believed to reflect human behaviour patterns in markets.
+* Key takeaway: Fibonacci tools aren’t magic, they increase probabilities but don’t guarantee outcomes. The usefulness depends on many traders watching the same levels and acting accordingly.
+  
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="18"></a>
+#### 18. How to Use Fibonacci Retracements
 
 
 
