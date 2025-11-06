@@ -369,7 +369,8 @@ Combining candlestick patterns with support and resistance levels significantly 
 * Long bodies indicate strong buying or selling pressure; short bodies indicate little movement.
 * Upper shadows show session highs; lower shadows show session lows.
 * Candlestick patterns are grouped by how many bars they contain:
-* Use candlestick analysis in context (trend, support/resistance) — the pattern alone does not guarantee a move. 
+* Use candlestick analysis in context (trend, support/resistance) — the pattern alone does not guarantee a move.
+* EXTRAS EBOOK: https://dl.kohanfx.com/pdf/the-candlestick-trading-bible-(KohanFx.com).pdf
 
 <a name="id"></a>
 [**Back to HOME**](#100)
