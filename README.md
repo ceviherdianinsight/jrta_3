@@ -392,5 +392,24 @@ Combining candlestick patterns with support and resistance levels significantly 
 <a id="18"></a>
 #### 18. How to Use Fibonacci Retracements
 
+* The tool draws horizontal lines at key percentages of a prior price move to highlight potential support and resistance zones.
+* Common retracement levels include 23.6 %, 38.2 %, 50.0 %, 61.8 %, and 76.4 % — of which 38.2 %, 50.0 % and 61.8 % tend to hold more significance.
+* Identify a recent swing high and swing low (depending on trend direction).
+* In an uptrend, draw from swing low → swing high; in a downtrend, draw from swing high → swing low.
+* In an uptrend, when price pulls back, expect it to find support near one of the Fib levels before resuming the trend.
+* In a downtrend, when price retraces upward, it may meet resistance at a Fib level before continuing downward.
+* The levels become self-fulfilling when many traders watch and act on them, increasing the likelihood of reaction at those zones.
+* Important caution: The tool is not fool-proof. Price may ignore the retracement levels, go beyond them, or the chosen swing points may be subjective.
+* To increase reliability, are recommended to combine Fib retracements with other tools such as support/resistance zones, trend lines, and candlestick patterns.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="19"></a>
+#### 19. Fibonacci Retracements are NOT Foolproof
+
+
+
 
 
