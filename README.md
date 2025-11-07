@@ -534,4 +534,15 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 <a id="25"></a>
 #### 25. Summary: Fibonacci Trading
 
+* The major Fibonacci retracement levels to watch are ~ 23.6 %, ~ 38.2 %, ~ 50.0 % and ~ 61.8 % (also ~ 76.4 %).
+* Among those, the ~ 38.2 %, ~ 50.0 %, and ~ 61.8 % levels tend to carry the most weight in trading decisions.
+* Fibonacci levels are viewed by traders as potential support and resistance zones, because many market participants watch them.
+* The major Fibonacci extension levels (beyond 100 %) include ~ 100 %, ~ 138.2 %, ~ 161.8 %, etc. These are used as possible profit-target zones.
+* To apply Fibonacci tools you must first identify a valid Swing High and Swing Low (or vice-versa), since the tool’s anchor points affect its validity.
+* The effectiveness of Fibonacci levels improves when they are used alongside other tools: support/resistance zones, trend lines, candlestick patterns rather than on their own.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
 
