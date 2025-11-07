@@ -468,8 +468,8 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 [**Back to HOME**](#100)
 
 
-<a id="20"></a>
-#### 21. How to Use Fibonacci Retracement with Japanese Candlesticks
+<a id="22"></a>
+#### 22. How to Use Fibonacci Retracement with Japanese Candlesticks
 
 * The lesson teaches how to combine the Fibonacci retracement tool with candlestick patterns, going beyond using Fib levels alone.
 * The strategy focuses on spotting what they call “Fib Sticks”: these are candlestick formations (especially where buying or selling pressure is exhausted) that occur at or near a key Fib level.
@@ -483,7 +483,8 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
   - Even then, no tool gives certainty—risk management, confirmation and context remain essential. (Implied by earlier discussion of Fib limitations)
 
 
-
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
 
