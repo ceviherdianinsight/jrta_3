@@ -43,6 +43,12 @@
 
 [20-How to Use Fibonacci Retracement with Support and Resistance](#20)
 
+[21-How to Use Fibonacci Retracement with Trend Lines](#21)
+
+[22-How to Use Fibonacci Retracement with Japanese Candlesticks](#22)
+
+
+
 
 
 
@@ -439,6 +445,45 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+<a id="20"></a>
+#### 21. How to Use Fibonacci Retracement with Trend Lines
+
+* When a currency pair is in an up-trend or down-trend, you can boost your trade entries by combining the Fibonacci Retracement tool with a valid trend line.
+* Why it works: When both a trend-line and a Fib level overlap, you create a confluence zone, a point where multiple traders may place orders, increasing the probability of price reaction.
+* Steps to use the combination:
+  - Identify the dominant trend (up or down).
+  - Draw a trend line connecting two or more swing highs (in a downtrend) or swing lows (in an uptrend).
+  - Draw Fibonacci Retracement from the swing extreme (low to high in up-trend, high to low in down-trend).
+  - Watch for levels where the trend line intersects important Fib levels (commonly 50.0% or 61.8%). When they line up, these intersection zones can act as stronger support/resistance. 
+* Example: In the article’s 1-hour chart of AUD/JPY, a rising trend line and the 61.8% Fib level intersected and price bounced from that zone, offering a potential entry.
+* Caveats:
+  - Trend line drawing can be subjective, different traders may draw slightly different lines.
+  - A bounce at the confluence zone is not guaranteed; risk management (stop-losses, confirmation) remains essential.
+  - This technique works best when the trend is clear and strong—less reliable in choppy or sideways markets.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="20"></a>
+#### 21. How to Use Fibonacci Retracement with Japanese Candlesticks
+
+* The lesson teaches how to combine the Fibonacci retracement tool with candlestick patterns, going beyond using Fib levels alone.
+* The strategy focuses on spotting what they call “Fib Sticks”: these are candlestick formations (especially where buying or selling pressure is exhausted) that occur at or near a key Fib level.
+* Once price pulls back to a Fib level (e.g., 61.8 %), look for a candlestick that signals exhaustion (e.g., a long-legged doji) to confirm the level is holding.
+* If the candlestick (Fib Stick) appears at the Fib level, it improves the probability of:
+  - a bounce (if the trend continues). 
+  - or a reversal (if the exhaustion suggests trend change). 
+* You do not always need to place a limit order exactly at the Fib line; you can wait for the candlestick confirmation and then enter at market once the Fib Stick appears.
+* Important caveats:
+  - This method depends on correctly identifying swing points for the Fib tool and identifying valid candlestick exhaustion patterns.
+  - Even then, no tool gives certainty—risk management, confirmation and context remain essential. (Implied by earlier discussion of Fib limitations)
+
+
+
 
 
 
