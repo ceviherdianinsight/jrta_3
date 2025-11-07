@@ -47,6 +47,15 @@
 
 [22-How to Use Fibonacci Retracement with Japanese Candlesticks](#22)
 
+[23-How to Use Fibonacci Extensions to Know When to Take Profit](#23)
+
+[24-How to Use Fibonacci to Place Your Stop so You Lose Less Money](#24)
+
+[25-Summary: Fibonacci Trading](#25)
+
+
+
+
 
 
 
@@ -486,5 +495,43 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 <a name="id"></a>
 [**Back to HOME**](#100)
 
+
+
+<a id="23"></a>
+#### 23. How to Use Fibonacci Extensions to Know When to Take Profit
+
+* The Fibonacci extension tool is used to identify potential price targets (support/resistance) beyond 100% of a prior price move—i.e., where the trend has resumed and you want to take profit.
+* Common key extension levels include 100%, 127.2%, 138.2%, 161.8%, 261.8%, etc.
+* How to apply in an up-trend:
+  - Identify a swing low → swing high.
+  - After the retracement, when the trend resumes, apply the extension tool from that move to project possible target levels.
+  - Use the extension levels (e.g., 100%, 161.8%) as zones where you might take profit or watch for trend exhaustion. 
+* In a down-trend, similar logic applies but reversed: after a retracement and resumption of the down-trend, extensions point to possible support zones below the starting point.
+* Limitations & cautions:
+  - You cannot know in advance which extension level will act as the target/support/resistance.
+  - Correct selection of swing points is subjective and important. Incorrect swing high/low anchoring leads to misleading extension levels.
+  - Extensions are best used with other confirmation tools, not alone.
+ 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="24"></a>
+#### 24. How to Use Fibonacci to Place Your Stop so You Lose Less Money
+
+* One method: Place your stop loss just beyond the next Fibonacci level. For example: if you enter at the 38.2 % retracement, you place your stop just past the 50.0 % level.
+* Another method: Place the stop just past the recent Swing High or Swing Low (depending on trend/entry), which adds extra room for the trade to breathe.
+* The logic: If you believe a Fib level will act as support/resistance and you place your stop beyond the next level or swing point, you’re basically saying “if this level fails, my trade idea is invalid”.
+* Caution: This stop-placement method assumes a good entry and assumes the Fib level holds. But market may still whipsaw and hit stop before moving in your favour.
+* Risk management considerations: Larger stops (e.g., using swing high/low method) require adjusting position size so your risk stays acceptable.
+* Recommendation: Don’t rely only on Fibonacci levels for stops. Combine with support/resistance, trend lines, candlestick patterns and good trade management for better odds.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="25"></a>
+#### 25. Summary: Fibonacci Trading
 
 
