@@ -39,6 +39,12 @@
 
 [18-How to Use Fibonacci Retracements](#18)
 
+[19-Fibonacci Retracements are NOT Foolproof](#19)
+
+[20-How to Use Fibonacci Retracement with Support and Resistance](#20)
+
+
+
 
 
 
