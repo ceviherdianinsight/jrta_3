@@ -409,7 +409,30 @@ Combining candlestick patterns with support and resistance levels significantly 
 <a id="19"></a>
 #### 19. Fibonacci Retracements are NOT Foolproof
 
+* The Fibonacci Retracement tool is not fool-proof: it may fail even when applied correctly.
+* One major reason for failure: incorrect swing high/low selection different traders anchor different points, creating subjectivity.
+* The market can ignore Fib levels entirely or shoot past them—e.g., a strong trend may “bull-through” 61.8% without substantial reaction.
+* Fib levels should be treated as zones of interest, not exact lines where price must react.
+* To reduce failure risk, combine Fibonacci retracements with other tools: support/resistance, trend lines, candlestick patterns, price action.
+* Reliability increases when used in clear trends—in ranging or unclear markets, Fib levels tend to break down more often.
+  
+<a name="id"></a>
+[**Back to HOME**](#100)
 
+<a id="20"></a>
+#### 20. How to Use Fibonacci Retracement with Support and Resistance
+
+Combining the Fibonacci Retracement tool with established support and resistance zones can enhance the probability of successful trades. 
+Rather than relying on Fib levels alone, aligning them with S/R zones gives stronger context and meaning. 
+
+* The Fib retracement tool can highlight potential support and resistance levels by applying the ratios (e.g., 38.2%, 50.0%, 61.8%) to a swing move.
+* Confluence matters: When a Fib level lines up with a previous major support/resistance zone, the level becomes much more significant.
+* Example scenario: In an uptrend, you draw a Fib retracement from swing low → swing high; the price then pulls back to a zone where a past resistance-turned-support meets a Fib level (e.g., 50%). That gives a stronger trade setup.
+* It’s about zones, not exact lines: both S/R and Fib levels act as zones of interest where price may react not guarantees.
+* While this technique improves odds, no tool is fool-proof. Fib + S/R still require confirmation (price action, trend context, risk management).
+
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
 
