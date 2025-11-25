@@ -53,6 +53,10 @@
 
 [25-Summary: Fibonacci Trading](#25)
 
+[26-What Are Moving Averages?](#26)
+
+[27-Simple Moving Average (SMA) Explained](#27)
+
 
 
 
@@ -545,4 +549,49 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 [**Back to HOME**](#100)
 
 
+<a id="26"></a>
+#### 26. What Are Moving Averages?
+
+* A Moving Average (MA) smooths out price fluctuations so you can better see the underlying trend rather than getting distracted by “noise.”
+* It works by taking the average closing price over the last ‘X’ periods—then plotting that as a line on the chart.
+* Longer-length MAs (more periods) are smoother, but react slower to new price moves. Conversely, shorter-length MAs respond faster but may show more “chop”.
+* Two major types:
+  - Simple Moving Average (SMA): gives equal weight to all periods → smoother, but slower.
+  - Exponential Moving Average (EMA): gives more weight to recent prices → reacts faster, but may produce more false signals. 
+* What it’s not: A moving average does not predict future price—it lags the market and simply shows current/past trend.
+* Choosing length matters: You must pick a MA length that fits your trading timeframe and style—too long and you’ll miss moves; too short and you’ll be over-sensitive.
+* Practical uses (covered in later sections): identifying trend direction, finding dynamic support/resistance, entering on crossovers, combining multiple MAs to confirm trend. (Implied across the MA lessons)
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="27"></a>
+#### 27. Simple Moving Average (SMA) Explained
+
+* A Simple Moving Average (SMA) is calculated by adding the closing prices of the last X periods and dividing by X.
+* The “moving” aspect means as each new period closes, the oldest one drops out and the average updates—creating a line that “moves” with price.
+* Longer period SMAs are smoother but lag more; shorter period SMAs respond quicker but may be noisier.
+* SMAs help identify trend direction:
+  - If price is above the SMA and the SMA is angled upward → likely up-trend.
+  - If price is below and the SMA slopes downward → likely down-trend. 
+* Limitations: Because SMAs are based on past prices, they lag behind current price action and can give false signals, especially during sudden market moves or when a spike occurs.
+* Choosing the correct SMA length depends on your time-frame and trading style—there’s no one “best” period for all scenarios.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="28"></a>
+#### 28. Exponential Moving Average (EMA) Explained
+
+* The Exponential Moving Average (EMA) is a type of moving average that gives more weight to the most recent price data, making it more responsive than the simple moving average (SMA).
+* Because EMAs respond faster to recent price changes, they can help you catch trend changes earlier than SMAs.
+* Use-cases:
+  - In an uptrend (EMA is sloping upward): consider buying when price dips near or just below the EMA.
+  - In a downtrend (EMA is sloping downward): consider selling when price rallies toward or just above the EMA. 
+* The EMA line can act as dynamic support or resistance—i.e., price may bounce off a rising EMA (support) or reverse after touching a falling EMA (resistance).
+* Limitations / cautions:
+  - Although EMAs lag less than SMAs, they still lag—they do not predict future price movements.
+  - Because they respond faster, EMAs are more prone to false signals during choppy or sideways markets. 
+* Best fit: EMAs are especially useful for traders focusing on shorter-term timeframes who want more sensitivity to recent price action. 
 
