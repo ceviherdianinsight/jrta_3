@@ -65,6 +65,8 @@
 
 [31-How to Use Moving Average Crossovers to Enter Trades](#31)
 
+[32-How to Use Moving Averages as Dynamic Support and Resistance Levels](#32)
+
 
 
 
@@ -652,5 +654,9 @@ Rather than relying on Fib levels alone, aligning them with S/R zones gives stro
 
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+<a id="32"></a>
+#### 32. How to Use Moving Averages as Dynamic Support and Resistance Levels
 
 
