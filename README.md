@@ -57,6 +57,9 @@
 
 [27-Simple Moving Average (SMA) Explained](#27)
 
+[28-Exponential Moving Average (EMA) Explained](#28)
+
+
 
 
 
